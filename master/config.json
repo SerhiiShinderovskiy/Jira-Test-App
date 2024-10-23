@@ -1,0 +1,11 @@
+{
+    "expressErrorHandling": false,
+    "development": {
+        "port": 3001,
+        "store": {
+            "adapter": "mongodb",
+            "url": "mongodb+srv://sergiyshinderovskiy:3ePVGuAE76ziQNVJ@cluster0.ci09u.mongodb.net/testjira",
+            "collection": "AddonSettings"
+        }
+    }
+}
